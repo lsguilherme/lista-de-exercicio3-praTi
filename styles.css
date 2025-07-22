@@ -28,3 +28,17 @@ footer {
   border: 5px solid #653bbf;
   text-align: center;
 }
+
+h2 {
+  font-size: 2em;
+  text-decoration: underline;
+}
+
+.destaque {
+  font-style: italic;
+  background-color: #7b44f2;
+}
+
+#importante {
+  border-top: 4px solid #0d0d0d;
+}
